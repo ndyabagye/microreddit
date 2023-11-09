@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a microreddit.
 
-Things you may want to cover:
+We test the skills got from the ODIN project, in the course for Ruby on Rails.
 
-* Ruby version
+We create users who have posts. The posts have many comments.
 
-* System dependencies
+A user can have many posts. A post belongs to one user.
 
-* Configuration
+A post can have many comments. A comment belongs to one post.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A comment belongs to one user.
